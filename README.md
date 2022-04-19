@@ -2,7 +2,7 @@
 
 ### My name is [Charchit Dahal](https://www.charchitdahal.com/).
 
-<img align="right" max-width="50%" alt="gif" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/media/fd41dabc5ba0135194498ab47adaed95.gif" width="500"/>
+<img align="right" max-width="50%" alt="gif" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611303041d41afbc6fa43db3455d47ad71cc12f8ac2&rid=giphy.gif&ct=g" width="500"/>
 
 
 I'm a software engineer living in Salt Lake City, Utah, with a passion for tech startups.
