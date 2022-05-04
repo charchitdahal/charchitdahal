@@ -9,7 +9,7 @@ I'm a software engineer living in Salt Lake City, Utah, with a passion for tech�
 
 I love experimenting with new and exciting technology.
 
-At the moment, I'm learning on blockchain technology.
+At the moment, I'm learning blockchain technology.
 
 ## Let's get in touch ⬇️
 
